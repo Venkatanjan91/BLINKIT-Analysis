@@ -37,7 +37,7 @@ This project demonstrates strong skills in:
   - numpy
   - matplotlib
   - seaborn
-- Environment: Jupyter Notebook
+- Environment: Google Colab
 
 ---
 
